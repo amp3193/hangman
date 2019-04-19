@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+ 
+}
+
+body {
+    background-image: url("../images/paper.jpg");
+    background-size: 60%;
+    margin: auto;
+    font-size: 36px;
+}
+
+.main-content {
+    font-size: 36px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
